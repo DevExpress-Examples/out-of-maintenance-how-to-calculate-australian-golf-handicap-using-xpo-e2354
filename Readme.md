@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Player.cs](./CS/WebSite/App_Code/Player.cs) (VB: [Player.vb](./VB/WebSite/App_Code/Player.vb))
+* [Result.cs](./CS/WebSite/App_Code/Result.cs) (VB: [Result.vb](./VB/WebSite/App_Code/Result.vb))
+* [XpoHelper.cs](./CS/WebSite/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/WebSite/App_Code/XpoHelper.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to calculate Australian Golf Handicap using XPO
 
 
