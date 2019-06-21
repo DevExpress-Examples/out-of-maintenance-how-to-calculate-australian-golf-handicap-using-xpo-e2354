@@ -8,6 +8,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to calculate Australian Golf Handicap using XPO
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2354/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to use the ASPxGridView with XPO to calculate Handicap used in the Australian Golf.<br />
